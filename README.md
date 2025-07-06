@@ -2,6 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 A MicroPython library implementing IVCP’s unidirectional, numeric messaging over RP2040 PIO.  
 For full design rationale, protocol details, timing diagrams and integration guidance, see the **Technical Specification Exposition** in `IVCP-TSE-0725A.pdf`.
+[![Docs: PDF](https://img.shields.io/badge/Docs–PDF-lightgrey.svg)](ivcp/IVCP-TSE-0725A.pdf)
 
 ---
 
