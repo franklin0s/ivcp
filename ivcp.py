@@ -5,6 +5,8 @@ Provides Tx and Rx classes for the IVCP single-wire protocol using RP2040 PIO.
 The Integrated Value Communication Protocol was fully designed by me, Franklín, and vibe coded
 by our almighty AI-overlords.
 
+Version 1.0, also known as 0725A
+
 API:
     Tx(data_pin, t_value=8000)
         transmit(value, vid)   # start/update continuous streaming (background thread)
