@@ -1,4 +1,3 @@
-# The Integrated Value Communications Protocol
-A MicroPython library for RP2040 PIO + full protocol spec in PDF.
+# The Integrated Value Communication Protocol
+A MicroPython library for (right now) RP2040 PIO, please refer to the Technical Specification Exposition (PDF) for design philosophy, specification, and integration.
 
-**transmit**
